@@ -16,7 +16,6 @@ public class App extends Application {
                 .allowMainThreadQueries()
 
                 .build();
-
     }
 
     public static App getInstance() {

@@ -13,7 +13,6 @@ import ru.mirea.rudenok.internalfilestorage.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
-    private static final String LOG_TAG = MainActivity.class.getSimpleName();
     private String fileName = "date.txt";
 
     @Override
